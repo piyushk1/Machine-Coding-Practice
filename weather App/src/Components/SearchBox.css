@@ -1,0 +1,12 @@
+.SearchBox{
+    height: 100px;
+    width: 200px;
+}
+
+.search{
+    width: 150px;
+    border: 2px;
+    border-radius: 5px;
+    margin: 20px;
+    
+}
